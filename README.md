@@ -1,16 +1,25 @@
-## Hi there 👋
+# ⌞ 👋 Hey, I'm Christian  ⌝
 
-<!--
-**kurisv/kurisv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer with 8+ years of experience building scalable web applications. 
+I specialize in modern JavaScript ecosystems and have worked on critical systems in finance.
 
-Here are some ideas to get you started:
+💻 Currently focused on:  
+- **MEAN Stack**
+- **Web3 and EVM**
+- **PostgreSQL, MongoDB**
+  
+## 🌱 What I'm Learning
+I'm constantly learning and experimenting with:
+- **AI development**
+- **React stack**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Let's Connect! 
+Feel free to reach out if you'd like to collaborate. 
+
+📧 Email: kvrisv@proton.me
+
+ദ്ദി ˉ͈̀꒳ˉ͈́ )✧
+
+---
