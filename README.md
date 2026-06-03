@@ -1,24 +1,23 @@
-# ⌞ 👋 Hey, I'm Christian  ⌝
+## Christian :: +8y Developing stuff \\( ´Д`；)
+When I'm not coding, I'm probably experimenting with AI, tinkering with blockchain stuff, watching my portfolio going down or over-engineering a side project at 2am.
 
-I'm a Full Stack Developer with 8+ years of experience building scalable web applications. 
-I specialize in modern JavaScript ecosystems and have worked on critical systems in finance.
+## 🧠 Currently Focused
 
-💻 Currently focused on:  
-- **MEAN Stack**
-- **Web3 and EVM**
-- **PostgreSQL, MongoDB**
+- **AI & Local LLMs** – Running models locally (Qwen, llama.cpp) and building apps that actually use them intelligently.
+- **Web3 / EVM** – The finance + blockchain intersection fascinates me
+- **JS Ecosystem** – Next.js, Angular, deliver > improve
+
+## 🖥 My Setup
+
+- **Local LLM** – Infinite tokens x999
+- **VS Code** - with OpenCode/Claude
   
-## 🌱 What I'm Learning
-I'm constantly learning and experimenting with:
-- **AI development**
-- **React stack**
-
 ---
 
-## 📫 Let's Connect! 
-Feel free to reach out if you'd like to collaborate. 
-
+## 📫 Say Hi
 📧 Email: kvrisv@proton.me
+
+⬛ X: https://x.com/kvrisv
 
 ദ്ദി ˉ͈̀꒳ˉ͈́ )✧
 
