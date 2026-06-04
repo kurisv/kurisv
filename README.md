@@ -11,8 +11,6 @@ When I'm not coding, I'm probably experimenting with AI, tinkering with blockcha
 
 - **Local LLM** – Infinite tokens x999
 - **VS Code** - with OpenCode/Claude
-  
----
 
 ## 📫 Say Hi
 📧 Email: kvrisv@proton.me
